@@ -1,0 +1,22 @@
+.timer-container{
+    text-align: center;
+    background-color: #f099e9;
+    height: 100vh;
+    padding: 20px;
+
+}
+
+.bomb-image{
+    width: 40%;
+    padding-top: 40px;
+}
+.user-input{
+    text-align: center;
+    border-width: 0px;
+    border-radius: 4px;
+    padding: 6px;
+}
+.timer-display{
+    color: white;
+    font-size: 50px;
+}
